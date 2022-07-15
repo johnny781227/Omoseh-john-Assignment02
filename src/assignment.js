@@ -14,10 +14,7 @@ const assignment = {};
  * @returns number the sum of the numbers
  */
 function sumOfNumbers(arrayOfNumbers) {
-  let sum=o;
-  for (let i = 0; i < arrayOfNumbers.length; i++) {sum+= arrayOfnumbers[i]
-  }
-  return sum;
+    return arrayOfNumbers.length;
 }
 // assignment.sumOfNumbers = sumOfNumbers;
 
@@ -31,11 +28,8 @@ function sumOfNumbers(arrayOfNumbers) {
  * @returns number the count of even numbers
  */
 function countEvenNumbers(arrayOfNumbers) {
-    for(let i=0; i< arrayOfNumbers.length; i++){
-        if(arrayOfNumbers[i] % 2==0) {
-            number.push(arrayOfNumbers[i];
-};
-        return Numbers.length;
+    return arrayOfNumbers.length;
+}
 // assignment.countEvenNumbers = countEvenNumbers;
 
 /**
@@ -62,4 +56,3 @@ function celsiusToFahrenheit(arrayOfNumbers) {
 // DO NOT EDIT THIS BLOCK
 module.exports = assignment;
 // ========================
-
